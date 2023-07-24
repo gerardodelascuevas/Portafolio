@@ -1,15 +1,15 @@
 import About from "./about";
 import Navbar from "./navbar";
+import Projects from "./projects";
+import TechSkills from "./techSkills";
 
 export default function Home(){
   return(
-    <div class="container mx-auto px-4"> 
-      <Navbar />
-      <h1 className="text-5xl text-center"> Hola Soy Gerardo, desarrollador Full Stack JavaScript </h1>
-      <About />
-     
-
-    </div>
-    
+    <div className="container mx-auto px-4"> 
+      <Navbar />      
+      <About className="h-screen mb-5" id='About'/>
+      <TechSkills className="h-screen"/>
+      <Projects className="h-screen"/>   
+    </div>    
   )
 }
