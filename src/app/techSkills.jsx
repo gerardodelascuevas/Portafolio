@@ -1,6 +1,6 @@
 export default function TechSkills(){
     return(
-        <div className=""> 
+        <div id='tech'className=""> 
             <h1 className="text-center text-3xl"> Habilidades Técnicas </h1>
             <div className="flex flex-wrap justify-center w-full">  
                 <div>
