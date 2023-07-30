@@ -4,16 +4,10 @@ import { useState } from "react";
 
 export default function Navbar() {
   const [isActive, setIsActive] = useState('about');
-  const navLinks = ['about', 'techskills', 'contact', 'projects']
   const handleLinkClick = (component) => {
     setIsActive(component);
   };
   return (
-    <React.Fragment>
-    {navLinks.map(link=> {
-      // cKonst isActive = pathname.startsWith("#" + link.href)
-      //const isActive = false
-      return(
         <React.Fragment>
            <img src="./img/code.svg" className="h-8 mr-3 md:hidden mt-4" alt="gdlcp" />
             <nav className="fixed w-4/5 bg-white border-gray-200 dark:bg-gray-900 z-auto hidden md:block" style={{ marginTop: "-4rem" }}>
@@ -46,9 +40,5 @@ export default function Navbar() {
               </div>
             </nav>
       </React.Fragment>
-      )
-    })}
-   
-    </React.Fragment>
   );
 }
