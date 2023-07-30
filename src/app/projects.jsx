@@ -4,7 +4,7 @@ export default function Projects() {
         <h1 className="text-3xl">Proyectos</h1>
         <div className="flex flex-wrap justify-center gap-4">
           <div className="max-w-xs rounded overflow-hidden shadow-lg transition-all duration-300 hover:scale-110 m-4">
-            <img className="w-full" src="/img/sportsMarket.jpg" alt="Sports Market" />
+            <img className="w-full h-100" src="/img/sportsMarket.jpg" alt="Sports Market" />
             <div className="px-6 py-4">
               <div className="font-bold text-xl mb-2">SportsMarket</div>
               <p className="text-gray-700 text-base">
@@ -25,7 +25,7 @@ export default function Projects() {
             </a>
           </div>
           <div className="max-w-xs rounded overflow-hidden shadow-lg transition-all duration-300 hover:scale-110 m-4">
-            <img className="w-full" src="/img/sportsMarket.jpg" alt="Sports Market" />
+            <img className="w-full h-25" src="/img/businesscontrol.jpg" alt="Sports Market" />
             <div className="px-6 py-4">
               <div className="font-bold text-xl mb-2">BusinessControl</div>
               <p className="text-gray-700 text-base">
