@@ -41,7 +41,7 @@ export default function Projects() {
               <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">MySQL</span>
               <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Node.JS</span>
             </div>
-            <a href="https://github.com/gerardodelascuevas/businessControl" className="bg-blue-500 hover:bg-blue-700 cursor-pointer text-white font-bold py-2 px-4 rounded">
+            <a href="https://github.com/gerardodelascuevas/businesscontrolpos" className="bg-blue-500 hover:bg-blue-700 cursor-pointer text-white font-bold py-2 px-4 rounded">
               Ver el Repositorio
             </a>
           </div>
