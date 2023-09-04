@@ -1,7 +1,7 @@
 export default function Projects() {
     return (
       <div className="text-center" id='projects'>
-        <h1 className="text-3xl">Proyectos</h1>
+        <h1 className="text-3xl p-4">Proyectos</h1>
         <div className="flex flex-wrap justify-center gap-4">
           <div className="max-w-xs rounded overflow-hidden shadow-lg transition-all duration-300 hover:scale-110 m-4">
             <img className="w-full h-100" src="/img/sportsMarket.jpg" alt="Sports Market" />
