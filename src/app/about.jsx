@@ -10,7 +10,7 @@ export default function About() {
             Apasionado de la informática y la programación he realizado diversos proyectos 
             académicos, de voluntariado y freelance con los stacks PERN, MERN y con Electron JS</p>              
         </div>   
-        <a className="p-5 bg-blue-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg mx-8 " href='./gerardodelascuevas.pdf' download>Descargar CV</a>       
+        <a className="p-5 bg-blue-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg mx-8 " href='./img/gerardodelascuevas.pdf' download>Descargar CV</a>       
       </div>
     </div>
   );

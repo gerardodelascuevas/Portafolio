@@ -1,4 +1,5 @@
 import About from "./about";
+import Certifications from "./certifications";
 import Contacto from "./contacto";
 import Footer from "./footer";
 import Navbar from "./navbar";
@@ -11,6 +12,7 @@ export default function Home(){
       <Navbar />      
       <About/>
       <TechSkills/>
+      <Certifications />
       <Projects />   
       <Contacto />
       <Footer />
