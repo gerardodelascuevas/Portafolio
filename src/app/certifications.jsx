@@ -39,7 +39,7 @@ export default function Certificacions(){
   };
 
   return (
-    <div className="w-full">
+    <div className="w-full" id="certifications">
       <h1 className='text-3xl p-4 text-center'> Certificaciones </h1>
       <Slider {...settings}>
         {galleryTab.map((x, index) => (
