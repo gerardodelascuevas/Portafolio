@@ -8,7 +8,7 @@ import TechSkills from "./techSkills";
 
 export default function Home(){
   return(
-    <div className="container mx-auto px-4"> 
+    <div className="container mx-auto px-4">   
       <Navbar />      
       <About/>
       <TechSkills/>
