@@ -2,7 +2,6 @@
 
 import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
-import { Inter } from 'next/font/google'
 
 const ProfessionsDisplay = ({ professions, typeSpeed = 150, deleteSpeed = 75, delay = 2000 }) => {
     const [currentProfession, setCurrentProfession] = useState('');
