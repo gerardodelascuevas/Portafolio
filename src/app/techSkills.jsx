@@ -19,6 +19,9 @@ export default function TechSkills(){
                 <img className="max-w-sm transition-all duration-300 cursor-pointer group-hover:grayscale-0 w-12 m-4 hover:scale-150 w-12 m-4" alt="Sequelize"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />                
                 <img className="max-w-sm transition-all duration-300 cursor-pointer group-hover:grayscale-0 w-12 m-4 hover:scale-150 w-12 m-4" alt="Electronjs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
                 <img className="max-w-sm transition-all duration-300 cursor-pointer group-hover:grayscale-0 w-12 m-4 hover:scale-150 w-12 m-4" alt="Git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />
+                <img className="max-w-sm transition-all duration-300 cursor-pointer group-hover:grayscale-0 w-12 m-4 hover:scale-150 w-12 m-4" alt="PHP"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/php/php-original.svg"  /> 
+                <img className="max-w-sm transition-all duration-300 cursor-pointer group-hover:grayscale-0 w-12 m-4 hover:scale-150 w-12 m-4" alt="Laravel"  src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/laravel/laravel-original.svg"  /> 
+
             </div>
         </div>
     )
