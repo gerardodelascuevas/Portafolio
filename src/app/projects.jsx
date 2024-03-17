@@ -36,7 +36,8 @@ export default function Projects() {
                 <div className="font-bold text-xl mb-2">CattleMarket</div>
                 <p className="text-gray-700 text-base">
                   Software de administración de hatos ganaderos que permite la medición de los parametros 
-                  productivos del rancho asi como tambien brinda trazabilidad al ganado
+                  productivos del rancho asi como tambien brinda trazabilidad al ganado, con rutas públicas 
+                  para venta de animales y privadas para su administración
                 </p>
               </div>
               <div className="px-6 pt-4 pb-2">
@@ -58,7 +59,12 @@ export default function Projects() {
               <div className="px-6 py-4">
                 <div className="font-bold text-xl mb-2">BusinessControl</div>
                 <p className="text-gray-700 text-base">
-                  Sistemas Punto de ventas que permite administrar inventarios de negocios minoristas.
+                  Sistema Punto de ventas que permite administrar 
+                  inventarios, cuentas por cobrar, cuentas por pagar, 
+                  facturación electronica en México con posibilidad de conexión 
+                  a base de datos local o conexión con API 
+                   enfocado en negocios minoristas y mayoristas
+            
                 </p>
               </div>
               <div className="px-6 pt-4 pb-2">
