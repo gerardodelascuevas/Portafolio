@@ -20,7 +20,10 @@ export default function Footer(){
                         target="_blank"
                         >
                             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
-                            <svg className="w-6 h-6 filter grayscale" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24" xmlns="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg"      
+                            <svg className="w-6 h-6 filter grayscale" 
+                            aria-hidden="true" fill="currentColor" 
+                            viewBox="0 0 24 24" 
+                            xmlns="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg"      
                             >
                             </svg>
                         </a>
