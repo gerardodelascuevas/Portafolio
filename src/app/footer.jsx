@@ -18,7 +18,7 @@ export default function Footer(){
                         <a href="https://www.linkedin.com/in/gerardo-de-las-cuevas/" 
                         className="text-gray-400 hover:text-gray-500"
                         target="_blank"
-                        >
+                        > 
                             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
                             <svg className="w-6 h-6 filter grayscale" 
                             aria-hidden="true" fill="currentColor" 
