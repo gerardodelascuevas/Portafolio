@@ -17,7 +17,7 @@ export default function Certificacions(){
       type: "Certification",
       title: "Full Stack Web Developer",
     },
-    {
+    { 
       imageUrl: "img/devfdataen.jpg",
       type: "Certification",
       title: "Master en Data Sciense",
