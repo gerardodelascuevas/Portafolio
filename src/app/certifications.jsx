@@ -11,12 +11,7 @@ import "yet-another-react-lightbox/styles.css";
 export default function Certificacions(){
   const [open, setOpen] = useState(false);
   const [selectedImageIndex, setSelectedImageIndex] = useState(0);
-  const galleryTab = [
-    {
-      imageUrl: "img/fullStackJS.jpg",
-      type: "Certification",
-      title: "Full Stack Web Developer",
-    },
+  const galleryTab = [ 
     { 
       imageUrl: "img/devfdataen.jpg",
       type: "Certification",
@@ -26,6 +21,11 @@ export default function Certificacions(){
       imageUrl: "img/alkemyCertified.png",
       type: "Certification",
       title: "FullStack JS Developer",
+    },
+    {
+      imageUrl: "img/fullStackJS.jpg",
+      type: "Certification",
+      title: "Full Stack Web Developer",
     },
   ];
 
