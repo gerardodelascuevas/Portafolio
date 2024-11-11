@@ -12,6 +12,11 @@ export default function Certificacions(){
   const [open, setOpen] = useState(false);
   const [selectedImageIndex, setSelectedImageIndex] = useState(0);
   const galleryTab = [ 
+    {
+      imageUrl: "img/cerficatejalau.png", 
+      type: "Certification", 
+      title: "FullStack Software Developer"
+    },
     { 
       imageUrl: "img/devfdataen.jpg",
       type: "Certification",
