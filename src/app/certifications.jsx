@@ -13,10 +13,10 @@ export default function Certificacions(){
   const [selectedImageIndex, setSelectedImageIndex] = useState(0);
   const galleryTab = [
     {
-      imageUrl: "img/fullStackJS.jpg",
+      imageUrl: "img/jalau.jpg",
       type: "Certification",
       title: "Full Stack Web Developer",
-    },
+    },    
     { 
       imageUrl: "img/devfdataen.jpg",
       type: "Certification",
@@ -26,6 +26,11 @@ export default function Certificacions(){
       imageUrl: "img/alkemyCertified.png",
       type: "Certification",
       title: "FullStack JS Developer",
+    },
+    {
+      imageUrl: "img/fullStackJS.jpg",
+      type: "Certification",
+      title: "Full Stack Web Developer",
     },
   ];
 
