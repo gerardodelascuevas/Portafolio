@@ -32,6 +32,11 @@ export default function Certificacions(){
       type: "Certification",
       title: "Full Stack Web Developer",
     },
+    {
+      imageUrl: "img/ibmcoursera.jpg",
+      type: "Certification",
+      title: "Application Security for developers",
+    }
   ];
 
   const settings = {
